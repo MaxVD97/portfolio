@@ -1,3 +1,3 @@
 # portfolio
 
-View my project (https://MaxVD97.github.com/repository)[online]
+View my project [online] (https://MaxVD97.github.com/repository)
